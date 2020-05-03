@@ -1,0 +1,6 @@
+GET http://localhost:8000/blabla/OWO
+Content-Type: application/json
+
+{
+    "barker": "manong"
+}
