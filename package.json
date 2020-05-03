@@ -1,0 +1,26 @@
+{
+  "name": "express_study",
+  "version": "1.0.0",
+  "description": "A personal study regarding the Express JS framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRayOfSeasons/Express-Study.git"
+  },
+  "keywords": [
+    "express",
+    "js"
+  ],
+  "author": "Ray Lawrence Henri Sison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRayOfSeasons/Express-Study/issues"
+  },
+  "homepage": "https://github.com/TheRayOfSeasons/Express-Study#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
